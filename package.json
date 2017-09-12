@@ -1,0 +1,14 @@
+{
+  "name": "wallaby-issue-1289",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-preset-env": "1.6.0",
+    "jest": "21.0.2"
+  },
+  "dependencies": {
+    "babel-polyfill": "6.26.0"
+  }
+}
